@@ -4,7 +4,7 @@
 Now that you know what you’ll be translating, what the workflow is, and what tools you’ll be using, you hopefully decided to get involved. To get started:
 
 --- task ---
-Fill out our [registration form](https://docs.google.com/a/raspberrypi.org/forms/d/e/1FAIpQLSdoxUvmGwbpx3zcCxXwJEqaBoAQHsTu-v5R4uOTSxv9-OzUEw/viewform).
+Fill out our [registration form](https://docs.google.com/forms/d/e/1FAIpQLSe7yRAn-R2CL0tjh-MnGS01chvW1cVLxP8vpmVl9yVxigIH2Q/viewform?usp=sf_link).
 --- /task ---
 
 --- task ---
