@@ -8,11 +8,9 @@ copyedit: false
 last_tested: '2019-01-23'
 steps:
 - title: Introduction
-  completion: engaged
 - title: What we translate
 - title: Workflow
 - title: Tools
 - title: Support
 - title: Recognition scheme
-  completion: internal
 - title: Next steps
